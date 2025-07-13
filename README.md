@@ -96,9 +96,7 @@ This will launch the app locally and create a public link using **ngrok**.
 ```
 📦 Financial-Data-Extraction-App
  ┣ 📜 Financial_Data_Extraction_App.ipynb
- ┣ 📜 app.py
  ┣ 📜 README.md
- ┗ 📜 requirements.txt
 ```
 
 ---
